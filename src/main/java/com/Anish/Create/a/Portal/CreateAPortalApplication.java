@@ -10,5 +10,4 @@ public class CreateAPortalApplication {
 		SpringApplication.run(CreateAPortalApplication.class, args);
 		System.out.println("Anish is Creating a Project");
 	}
-
 }
